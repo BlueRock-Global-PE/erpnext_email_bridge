@@ -1,0 +1,10 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include erpnext_email_bridge *.py
+recursive-include erpnext_email_bridge *.txt
+recursive-include erpnext_email_bridge *.md
+recursive-include erpnext_email_bridge *.html
+recursive-include erpnext_email_bridge *.css
+recursive-include erpnext_email_bridge *.js
+recursive-include erpnext_email_bridge *.json

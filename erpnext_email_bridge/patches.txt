@@ -1,0 +1,2 @@
+# Add any database patches here
+# Format: module_name.path.to.patch.function
